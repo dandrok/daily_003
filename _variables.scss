@@ -1,0 +1,36 @@
+// ===========
+// Colors
+// ===========
+
+$color_font: #17103b;
+$color_bg_box: #d6eae7;
+$color_btn: #ffa593;
+$color_mini_box: #c3dfd8;
+$color_right_box: #ddebe6;
+$color_border_right_box: #e5f0ed;
+
+// ===========
+// Else
+// ===========
+
+$radius: 5px;
+
+// ===========
+// Font-Size
+// ===========
+
+%font-size-h1 {
+  font-size: 3rem;
+}
+%font-size-h3 {
+  font-size: 1.25rem;
+}
+%font-size-h4 {
+  font-size: 1.05rem;
+}
+%font-size-h5 {
+  font-size: 0.75rem;
+}
+%font-size-p {
+  font-size: 1rem;
+}
